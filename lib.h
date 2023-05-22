@@ -1,2 +1,2 @@
 
-float funz(float a[],int d);
+float funz (float a[],int d);
