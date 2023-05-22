@@ -1,3 +1,4 @@
+#include "lib.h"
 
 float funz(float a[],int d){
    float vmax=a[0];
